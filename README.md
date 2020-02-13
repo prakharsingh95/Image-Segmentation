@@ -14,11 +14,11 @@ A cool result to notice is that while the ground truth does not fully label all 
 
 Input Image           |  Ground Truth | Prediction
 :-------------------------:|:-------------------------: | :-------------------------:
-<img src="results/A.img" height="200" width="200" style="display:inline;">  |  <img src="results/A_gt.img" height="200" width="200" style="display:inline;"> | <img src="results/A_pred.img" height="200" width="200" style="display:inline;">
-<img src="results/B.img" height="200" width="200" style="display:inline;">  |  <img src="results/B_gt.img" height="200" width="200" style="display:inline;"> | <img src="results/B_pred.img" height="200" width="200" style="display:inline;">
-<img src="results/C.img" height="200" width="200" style="display:inline;">  |  <img src="results/C_gt.img" height="200" width="200" style="display:inline;"> | <img src="results/C_pred.img" height="200" width="200" style="display:inline;">
-<img src="results/D.img" height="200" width="200" style="display:inline;">  |  <img src="results/D_gt.img" height="200" width="200" style="display:inline;"> | <img src="results/D_pred.img" height="200" width="200" style="display:inline;">
-<img src="results/E.img" height="200" width="200" style="display:inline;">  |  <img src="results/E_gt.img" height="200" width="200" style="display:inline;"> | <img src="results/E_pred.img" height="200" width="200" style="display:inline;">
+<img src="results/A_img.jpg" height="200" width="200" style="display:inline;">  |  <img src="results/A_gt.jpg" height="200" width="200" style="display:inline;"> | <img src="results/A_pred.jpg" height="200" width="200" style="display:inline;">
+<img src="results/B_img.jpg" height="200" width="200" style="display:inline;">  |  <img src="results/B_gt.jpg" height="200" width="200" style="display:inline;"> | <img src="results/B_pred.jpg" height="200" width="200" style="display:inline;">
+<img src="results/C_img.jpg" height="200" width="200" style="display:inline;">  |  <img src="results/C_gt.jpg" height="200" width="200" style="display:inline;"> | <img src="results/C_pred.jpg" height="200" width="200" style="display:inline;">
+<img src="results/D_img.jpg" height="200" width="200" style="display:inline;">  |  <img src="results/D_gt.jpg" height="200" width="200" style="display:inline;"> | <img src="results/D_pred.jpg" height="200" width="200" style="display:inline;">
+<img src="results/E_img.jpg" height="200" width="200" style="display:inline;">  |  <img src="results/E_gt.jpg" height="200" width="200" style="display:inline;"> | <img src="results/E_pred.jpg" height="200" width="200" style="display:inline;">
 
 # Usage
 
