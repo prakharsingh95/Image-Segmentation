@@ -18,13 +18,13 @@ import argparse
 
 
 def main():
-    parser = argparse.ArgumentParser(description='DeepLabv3')
+    parser = argparse.ArgumentParser(description='Image Segmentation')
     parser.add_argument('--loadCheckpoint', action='store_true', help='Whether to start training from previously saved weights')
     parser.add_argument('--multiGPU', action=f'store_true', help='Whether to use multiple GPUs (if available), else "{C.DEVICE}" will be used')
     parser.add_argument('--saveFreq', default=None, type=int, help='Frequency of saving model weights (via early-stopping)')
     parser.add_argument('--valImages', default=10, type=int, help='Size of a random subset of the valition set for estimating model performance')
     parser.add_argument('--logFreq', default=50, type=int, help='Logging frequency')
-    parser.add_argument('--weightDecay', default=C.WEIGHT_DECAY, type=float, help='Whether to se weight decay regularization')
+    parser.add_argument('--weightDecay', default=C.WEIGHT_DECAY, type=float, help='Whether to use weight decay regularization')
     parser.add_argument('--trainTrunk', action='store_true', help='Whether to train the trunk (Resnet) or not')
     args = parser.parse_args()
 
